@@ -1,0 +1,11 @@
+name: choas-ops
+description: Chaos Ops
+configVersion: 1
+typeId: OTHER
+fields:
+    lifecycle: Active
+    tier: 1
+links:
+relationships: {}
+labels:
+    - 'language:hcl'
